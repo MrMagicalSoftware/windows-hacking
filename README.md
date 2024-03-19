@@ -90,6 +90,12 @@ Start a listener on Kali and then start the service to spawn a reverse shell run
 net start daclsvc
 ```
 
+_________________
 
 
+
+
+SERVICE_START_NAME: LOCALSystem si riferisce al nome dell'account utente utilizzato per avviare un servizio in un sistema operativo Windows. In questo caso, LOCALSystem si riferisce all'account di sistema locale, che ha i diritti e i privilegi più elevati su un computer ed è in grado di accedere a risorse di sistema protette. Quando un servizio viene avviato con questo account, esso ha un elevato livello di controllo e autorizzazione sul sistema.
+
+![Screenshot 2024-03-19 alle 14 44 12](https://github.com/MrMagicalSoftware/windows-hacking/assets/98833112/d9e20c33-3465-4aac-8af5-118c81bc1d32)
 
