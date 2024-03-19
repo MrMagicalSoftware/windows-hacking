@@ -40,7 +40,7 @@ Some common use cases for Accesschk include:
 Accesschk is a powerful tool that can help improve the security posture of a Windows system by providing valuable insights into its security settings. However, it should be used with caution, as making changes to permissions without understanding the consequences can potentially lead to system instability or security breaches.
 
 
-______________________-
+______________________
 
 1. accesschk -w Users C:\Program Files\ExampleApp
 This command checks the access control permissions for the "Users" group on the ExampleApp folder located at C:\Program Files. It will show the specific permissions that the Users group has on that folder.
